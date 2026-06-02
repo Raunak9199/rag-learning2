@@ -1,0 +1,11 @@
+/ytrag
+/data/vector_store
+.env
+/faiss_store
+# Python bytecode
+src/__pycache__/
+tests/__pycache__/
+utils/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
